@@ -1,0 +1,11 @@
+﻿employment_simple,education_simple,العدد,المتوسط,الانحراف
+Employed,Bachelor,57,4.7,1.04
+Employed,Postgraduate,17,4.58,1.42
+Employed,Secondary or Less,11,4.58,0.84
+Other,Bachelor,2,4.53,0.22
+Other,Postgraduate,1,4.38,
+Other,Secondary or Less,3,4.93,0.3
+Student,Bachelor,51,4.9,1.21
+Student,Secondary or Less,46,4.86,1.23
+Unemployed,Bachelor,6,4.48,0.72
+Unemployed,Secondary or Less,11,4.27,0.98
