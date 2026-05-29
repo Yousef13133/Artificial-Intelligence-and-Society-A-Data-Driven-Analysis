@@ -1,9 +1,0 @@
-Variable,Coefficient,P_Value
-Intercept,4.232580534169035,5.183272872567749e-21
-"C(Q(""What is your gender?""))[T.Male]",-0.16718399650911628,0.4748550044131582
-"C(Q(""What is your age range?""))[T.25-34]",-0.05785332000085352,0.8866719502245455
-"C(Q(""What is your age range?""))[T.35-44]",-0.6841771414402866,0.05081586285815684
-"C(Q(""What is your age range?""))[T.45 years and older]",-0.18503723178844814,0.550410377481287
-"C(Q(""What is your age range?""))[T.Under 18 years old]",-0.2317322614023595,0.5083846493504424
-knowledge_score,0.2676914676998577,4.664958889762214e-05
-ai_literacy_score,0.014131301268178341,0.7317572765344471
